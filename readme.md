@@ -7,4 +7,6 @@ Eine ETL Pipeline, die eine CSV Datei ausliest und in MongoDB übertragt.
     env\Scripts\activate
 
     (env) pip install -r requirements.txt
-    Hallo
+
+
+    Today is Thursday.
